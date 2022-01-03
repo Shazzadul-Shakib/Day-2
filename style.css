@@ -1,0 +1,24 @@
+h1{
+  color: #17043b;
+  text-align: center;
+  width: 100%;
+
+}
+.sundorban{
+  background-color: aquamarine;
+  border: 3px solid blue;
+  border-radius: 15px;
+}
+.first{
+  text-align: center;
+  color: blueviolet;
+}
+p{
+  text-align: justify;
+  padding: 15px;
+
+}
+.author{
+  padding-left: 15px;
+
+}
